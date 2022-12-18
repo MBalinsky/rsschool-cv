@@ -1,0 +1,57 @@
+body {
+    background-image: url(img/background.jpg);
+}
+.blockquote-6 {
+    border-left: 6px solid black;
+    border-radius: 5%;
+    font-size: 20px;
+    font-style: italic;
+    margin: 16px;
+    width: 350px;
+    background-color: rgb(201, 199, 199);
+    font-weight: 500;
+    text-align: left;
+    padding-left: 30px;
+}
+.blockquote {
+    display: flex;
+    justify-content: center;
+    margin-top: -9px;
+}
+
+.photo {
+    border-radius: 20%;
+    padding: 20px;
+    box-shadow: 0 0 12px black;
+}
+
+.title {
+    margin-top: 12px;
+    color: gray;
+}
+
+.nav-item {
+    font-size: 23px;
+    margin-left: 50px;
+}
+
+ul{
+    list-style-type: none;
+}
+.text {
+    color: white;
+    font-size: 20px;
+}
+.ft {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
